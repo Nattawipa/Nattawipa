@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Nam's github stats](https://github-readme-stats.vercel.app/api?username=Nattawipa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nam's github stats](https://github-readme-stats.vercel.app/api?username=Nattawipa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattawipa&layout=compact&langs_count=8&theme=react)](https://github.com/china555/china555)  
 <!--
 **Nattawipa/Nattawipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
